@@ -15,7 +15,7 @@ object JsonRoomSqlParser {
 
     fun parseRoomJsonToSql(jsonFile: File): String {
         val json = jsonFile.readText()
-        val table = jsonConfig.decodeFromString<SqlTable>(json)
+        val table: SqlTable = jsonConfig.decodeFromString(json)
         val sql = StringBuilder()
         sql.append(table.database.setupQueries.joinToString(";\n"))
         sql.append("\n")
