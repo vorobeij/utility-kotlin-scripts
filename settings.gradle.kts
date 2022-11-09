@@ -19,7 +19,7 @@ refreshVersions {
         candidate.value.contains(unstableRegex)
     }
 }
-rootProject.name = "kotlin-app-template"
+rootProject.name = "util-scripts"
 include(
     "app"
 )

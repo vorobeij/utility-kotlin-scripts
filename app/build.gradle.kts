@@ -6,6 +6,10 @@ plugins {
 dependencies {
     implementation(kotlin("stdlib"))
     implementation(KotlinX.serialization.json)
+
+    testImplementation(Koin.test)
+    testImplementation(Kotlin.test.junit)
+    testImplementation(Testing.mockK)
 }
 
 // https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/wiki/Customizing-plugin-behavior
