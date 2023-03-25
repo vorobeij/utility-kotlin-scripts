@@ -24,7 +24,10 @@ class SQLLinesToFieldsConverter(
     }
 
     fun fixedSqlFile(content: String): String {
-        return content.replace("CREATE TABLE ", "CREATE TABLE IF NOT EXISTS ")
+        return content
+            .replace("CREATE TABLE ", "CREATE TABLE IF NOT EXISTS ")
+            .replace("create TABLE ", "CREATE TABLE IF NOT EXISTS ")
+            .replace("\"", "")
     }
 
     fun convert(schema: String): String {

@@ -1,0 +1,5 @@
+flatIllustration
+/imagine prompt:cat sitting in a box, ux, material design, dribbble, Figma, Behance, high quality, minimalism, flat design, high quality illustration, --stylize 250 --style 4c
+
+isometricIllustration
+/imagine prompt:cat sitting in a box, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, --stylize 250 --style 4c

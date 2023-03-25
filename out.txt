@@ -1,0 +1,21 @@
+
+=========================
+1 au.sjowl.apps.subsplayer.ui.youtube.controllers.YouTubePlayerShortsUiController@b650412
+=========================
+backend play 
+backend play try exec isReady=true 
+backend play exec 
+onStateChange BUFFERING 
+onStateChange PLAYING 
+onStateChange BUFFERING 
+onPanelClick androidx.appcompat.widget.AppCompatImageButton{1f2cd0e VFED..C.. ...P.... 430,194-650,414 #7f0a01f3 app:id/playPauseButton} 
+showControls true 
+hideControlsAfterTimeout 
+onStateChange PLAYING 
+hideControlsAfterTimeout 
+showControls false 
+onPanelClick androidx.appcompat.widget.AppCompatImageButton{1f2cd0e VFED..C.. ...P.... 430,194-650,414 #7f0a01f3 app:id/playPauseButton} 
+showControls true 
+hideControlsAfterTimeout 
+onStateChange PAUSED 
+showControls false 
