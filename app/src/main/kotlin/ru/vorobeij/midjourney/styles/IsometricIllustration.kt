@@ -11,5 +11,6 @@ val isometricIllustration = """
         high quality illustration
         isometric svg
         flat
+        sandy brown and forest green colors
     """.trimIndent()
 

@@ -56,6 +56,6 @@ class PromptBuilder {
             it.distinct().filter { it.isNotBlank() && !it.startsWith("//") }.joinToString(", ")
         }.joinToString(", ")
         val args = arguments.distinct().joinToString(" ")
-        return "/imagine prompt:$prompt, $args"
+        return "/imagine prompt:$prompt $args"
     }
 }

@@ -1,5 +1,32 @@
-flatIllustration
-/imagine prompt:cat sitting in a box, ux, material design, dribbble, Figma, Behance, high quality, minimalism, flat design, high quality illustration, --stylize 250 --style 4c
+1 isometricIllustration
+/imagine prompt:cute cat in a dark box, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
 
-isometricIllustration
-/imagine prompt:cat sitting in a box, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, --stylize 250 --style 4c
+2 isometricIllustration
+/imagine prompt:cute robot searching with magnifying glass in desert with cactee, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+3 isometricIllustration
+/imagine prompt:broken videocamera in a desert, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+4 isometricIllustration
+/imagine prompt:red bug on a monitor, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+5 isometricIllustration
+/imagine prompt:red bug on a cactus in desert, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+6 isometricIllustration
+/imagine prompt:wind whirling sand in desert, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+7 isometricIllustration
+/imagine prompt:tumbleweed spinning in a desert with cactee, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+8 isometricIllustration
+/imagine prompt:men talking and translating, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+9 isometricIllustration
+/imagine prompt:pile of books with a cup of coffee, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+10 isometricIllustration
+/imagine prompt:Earth from space, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
+
+11 isometricIllustration
+/imagine prompt:astronaut in space, dribbble, Figma, Behance, high quality, minimalism, high quality illustration, isometric svg, flat, sandy brown and forest green colors 
